@@ -17,7 +17,7 @@ CuentaBancaria --> AccountBank
 ```
 
 - se crearon 3 clases adicionales solicitadas: Customer, Employee, Transaction
-- Las clases estan separadas en archivos .class individuales en un paquete llamado #misClases
-- En un paquete llamado #main esta una clase donde pruebo algunos métodos instanciando 2 clases
+- Las clases estan separadas en archivos .class individuales en un paquete llamado "misClases"
+- En un paquete llamado "main" esta una clase donde pruebo algunos métodos instanciando 2 clases
 
 > Experimente un poco con Date y ArrayList
